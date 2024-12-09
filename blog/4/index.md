@@ -4,7 +4,8 @@ date: 2024-11-20
 lang: zh
 tags:
   - repost
-repost-url: https://www.yinwang.org/blog-cn/2016/01/18/java
+customizeMetadata:
+  repostUrl: https://www.yinwang.org/blog-cn/2016/01/18/java
 ---
 
 
