@@ -4,7 +4,8 @@ date: 2024-11-20
 lang: zh
 tags:
   - repost
-repost-url: https://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy
+customizeMetadata:
+  repostUrl: https://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy
 ---
 
 
