@@ -14,7 +14,7 @@ const config: Config = {
     baseUrl: BASE_URL,
     organizationName: 'mengtaoxin',
     projectName: 'site.github.io',
-    onBrokenLinks: 'warn',
+    onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     i18n: {
         defaultLocale: 'en',
@@ -62,7 +62,7 @@ const config: Config = {
                     label: 'Docs',
                 },
                 {
-                    to: BASE_URL + '/blog',
+                    to: '/blog',
                     label: 'Blog',
                     position: 'left'
                 },
