@@ -81,7 +81,7 @@ const config: Config = {
                     items: [
                         {
                             label: 'About',
-                            to: BASE_URL + '/docs/about',
+                            to: '/docs/about',
                         },
                     ],
                 },
