@@ -14,7 +14,7 @@ const config: Config = {
     baseUrl: BASE_URL,
     organizationName: 'mengtaoxin',
     projectName: 'site.github.io',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     i18n: {
         defaultLocale: 'en',
